@@ -1,0 +1,5 @@
+C:\Aspire\AspireNepal\AspireNepal\bin\AspireNepal.dll
+C:\Aspire\AspireNepal\AspireNepal\bin\AspireNepal.pdb
+C:\Aspire\AspireNepal\AspireNepal\obj\Debug\ResolveAssemblyReference.cache
+C:\Aspire\AspireNepal\AspireNepal\obj\Debug\AspireNepal.dll
+C:\Aspire\AspireNepal\AspireNepal\obj\Debug\AspireNepal.pdb
